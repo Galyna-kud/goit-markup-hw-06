@@ -1214,6 +1214,7 @@ input[type="checkbox"]:checked + .modal-checkbox-label > .agreement-checkbox {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    font-style: normal;
    
 }
 
